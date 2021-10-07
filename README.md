@@ -2,7 +2,7 @@
 
 ## Challenge
 
-Build a weather checker app using TypeScript and React that satisfies the requirements below.
+Build a weather checker app using TypeScript and React that satisfies all of the requirements below.
 
 ## Core Requirements
 
@@ -10,13 +10,13 @@ Build a weather checker app using TypeScript and React that satisfies the requir
 
 - Before coding your app, you should use the draw.io VS code extension to create a component tree diagram within this repository.
 - Each component in the diagram should have its states and behaviors noted.
-- Your app should have a readme that describes its features and how it should be used.
+- Your app should have a readme that describes its functionality and how it should be used. You can use a tool like [Readme.so](https://readme.so/editor) to help do this.
 
 ### Code and functionality
 
 - Your app should be in TypeScript! Remember to reference the [React/TypeScript cheat sheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets) and other resources (and Google) to help.
 - The user should be able to input the name of a city and have weather information about that city added to the page. Use the following API to get your weather information: https://openweathermap.org/api.
-- Your app should have at least one other feature in addition to being able to check weather information about a city. Be creative!
+- Your app should have at least one other function/feature in addition to being able to check weather information about a city. Be creative!
 
 ### Styling and UI
 
