@@ -15,7 +15,7 @@ Build a weather checker app using TypeScript and React that satisfies all of the
 ### Code and functionality
 
 - Your app should be in TypeScript! Remember to reference the [React/TypeScript cheat sheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets) and other resources (and Google) to help.
-- The user should be able to input the name of a city and have weather information about that city added to the page. Use the following API to get your weather information: https://openweathermap.org/api.
+- The user should be able to input the name of a city and have weather information about that city added to the page. Use the following API to get your weather information: https://openweathermap.org/api. You'll need to sign up for the free tier to get an API key.
 - Your app should have at least one other function/feature in addition to being able to check weather information about a city. Be creative!
 
 ### Styling and UI
