@@ -17,5 +17,5 @@ Remember to:
 ## Further resources
 
 - [TypeScript in create-react-app](https://create-react-app.dev/docs/adding-typescript/)
-- [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
+- [React/TypeScript cheat sheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
 - [Example TypeScript app](https://github.com/JoselynDRF/react-redux-typescript-todolist)
