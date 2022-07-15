@@ -54,6 +54,7 @@ Consider exploring (and possibly implementing) any of the below.
 - Tests
 
   - Practice writing tests in TypeScript whilst also getting some confidence that the important parts of your app behave correctly.
+  - Might be helpful (starting from "Testing a Basic Component"): https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript#module-testingabasiccomponent
 
 - Forms
   - A way to add forms to an app and simplify many of the details: https://react-hook-form.com/
